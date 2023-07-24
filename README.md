@@ -21,3 +21,10 @@ RISKS:
 a. COMPETATION SABOTAGING: There may be existing bus booking systems in the market, and competitors may try to sabotage my project by offering aggressive discounts or other strategies. To mitigate this risk,I will focus on providing excellent service, competitive fares, and additional features that differentiate my app.
 b. USER RESISTANCE: Some users may be hesitant to adopt a new booking system if they are accustomed to traditional methods. To address this,I will provide clear benefits, offer a user-friendly interface, and provide customer support to assist users in transitioning to the new system.
 c. INTERNET ACCESS COSTT: Internet access can be costly for users, especially in certain regions. I will optimize my app to work on low-bandwidth connections, offer offline capabilities where possible, and explore partnerships with local network providers to provide affordable data packages.
+
+
+
+
+FIGMA PROJECT WORK IN DESIGNING THE APPLICATION
+
+https://www.figma.com/file/JdsQpzO48bfYGbHrVvqtKV/ONLINE-BUS-BOOKING?type=design&mode=design&t=uZIqF8rjVj3AEAQX-1
